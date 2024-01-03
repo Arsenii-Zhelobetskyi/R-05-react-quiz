@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/05858957-854c-45e6-b2f9-2fa24f7e1727/deploy-status)](https://app.netlify.com/sites/classy-weather-project/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/30f69ba5-411d-40a7-a458-ea35f73c0951/deploy-status)](https://app.netlify.com/sites/small-react-quiz-project/deploys)
 <h1 align="center">❓React Quiz❓</h1>
 <h3 align="center">🤔Simple app to run quiz and answer some questions🤔</h3>
 <h3 align="center" >⚛️App was created during the Jonas Schmedtmann react course⚛️</h3>
@@ -6,10 +6,10 @@
 ## ▶️Demonstration:
 ![image](https://drive.google.com/uc?export=download&id=16Gq_3_6GofvLURO6Wetc1sLDpOeBxyFy)
 
-## 🚀This app is example of how to use:
-- 🧱 useReducer
-- 🪄 Effects
-- 🔗 fakeAPI
+## 🚀This app is example of:
+- 🧱 How to use useReducer
+- 🪄 How to use Effects
+- 🔗 How to use fakeAPI
 - 🧠 How to develop an app
 - 🍎 App structure
 
