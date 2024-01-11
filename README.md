@@ -13,7 +13,7 @@
 - 🧠 How to develop an app
 - 🍎 App structure
 
-## 👟To run this app localy you should:
+## 👟To run this app locally you should:
 - 🧑‍🤝‍🧑 Clone the initial commit
 - 🏃‍♂️ Run fakeAPI with command `npm run server`
 - 🏃‍♀️ Run app with `npm start`
